@@ -17,4 +17,5 @@ I am driven by the desire to use technology to solve problems that directly impa
 ---
 
 Let’s connect!
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-400080?style=for-the-badge&logo=linkedin&logoColor=00000)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/alexandre-oli-747936186/))
