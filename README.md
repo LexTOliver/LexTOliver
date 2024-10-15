@@ -3,13 +3,16 @@
 I am a data scientist and AI engineer with a Bachelor's degree in Computer Science, specializing in Deep Learning, also in Data Science and Machine Learning. My passion for artificial intelligence began during my undergraduate studies, where I developed a chatbot prototype for my thesis degree, and since then, I have been dedicated to enhancing my skills through advanced courses and practical projects.
 
 ## 🚀 Projects
-Currently, I lead a team focused on developing an AI model for breast cancer diagnosis, directly contributing to early detection and positively impacting people's lives. My mission is to create intelligent systems that promote societal well-being.
+- **Cancer Diagnosis System:** Currently, I lead a team focused on developing AI models for breast cancer diagnosis, directly contributing to early detection and positively impacting people's lives.
+
+- **[Government proposal categorization](https://github.com/ResidenciaTICBrisa/BP-Classificador-de-Propostas)**: over six months, I worked with a team in developing a text classification model, we collaborated closely with the Product Owner (PO) and followed the Scrum methodology to deliver and present results consistently throughout the project.
 
 ## 🛠️ Skills
-- **Programming Languages:** Python, JavaScript
-- **Frameworks and Libraries:** PyTorch, OpenCV, Pandas, Pydicom
-- **Areas of Expertise:** Deep Learning, Computer Vision, Medical Image Processing
-- **Tools:** Git, Docker, Linux
+- **Main Programming Languages:** Python, JavaScript
+- **Frameworks and Libraries:** PyTorch, Scikit-Learn, Pandas, Pydicom
+- **Areas of Expertise:** Deep Learning, Computer Vision, Text Classification, Medical Image Processing
+- **Tools:** Git, Linux
+- **Soft Skills**: Eager to learn, adaptive leadership and resilience through obstacles
 
 ## 💡 About Me
 I am driven by the desire to use technology to solve problems that directly impact human well-being. I’m open to discussing new ideas and innovative projects.
