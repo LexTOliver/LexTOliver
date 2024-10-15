@@ -11,7 +11,7 @@ I am a data scientist and AI engineer with a Bachelor's degree in Computer Scien
 - **[CEAPS Data Science](https://github.com/LexTOliver/ceaps-data-science)**: Analysis of public expenses declared by Brazilian senators with Pandas, Plotly and Scikit-Learn.
 
 ## 🏆 Certifications
-- ...
+- 🔖 Bachelor's Degree in Computer Science from the Federal Institute of Brasília (IFB)
 
 
 ## 🛠️ Skills
