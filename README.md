@@ -5,7 +5,7 @@ I am a data scientist and AI engineer with a Bachelor's degree in Computer Scien
 ## 🚀 Projects
 - **Cancer Diagnosis System:** Currently, I lead a team focused on developing AI models for breast cancer diagnosis, directly contributing to early detection and positively impacting people's lives.
 
-- **[Government proposal categorization](https://github.com/ResidenciaTICBrisa/BP-Classificador-de-Propostas)**: over six months, I worked with a team in developing a text classification model, we collaborated closely with the Product Owner (PO) and followed the Scrum methodology to deliver and present results consistently throughout the project.
+- **[Government proposal categorization](https://github.com/ResidenciaTICBrisa/BP-Classificador-de-Propostas)**: Over six months, I worked with a team in developing a text classification model, we collaborated closely with the Product Owner (PO) and followed the Scrum methodology to deliver and present results consistently throughout the project.
 
 ## 🛠️ Skills
 - **Main Programming Languages:** Python, JavaScript
