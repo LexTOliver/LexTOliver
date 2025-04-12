@@ -8,6 +8,7 @@ I am a data scientist and AI engineer with a Bachelor's degree in Computer Scien
 - **[Government proposal categorization](https://github.com/ResidenciaTICBrisa/BP-Classificador-de-Propostas)**: I worked with a team for six months to develop a text classification model, collaborating closely with the Product Owner (PO) and using Scrum methodology. The system aimed to enhance communication between citizens and the government.
 
 ## 👨‍🔬 Projects
+- **[Scrape Search](https://github.com/LexTOliver/web-scraping)**: Search engine application and web scraping project to search specified content in webpages based on user-defined criteria. 
 - **[Finance Analyzer](https://github.com/LexTOliver/finance-analyzer)**:  LLM-based application for analyzing financial and business reports with LangChain and Streamlit.
 - **[CEAPS Data Science](https://github.com/LexTOliver/ceaps-data-science)**: Analysis of public expenses declared by Brazilian senators with Pandas, Plotly and Scikit-Learn.
 
@@ -17,7 +18,7 @@ I am a data scientist and AI engineer with a Bachelor's degree in Computer Scien
 
 ## 🛠️ Skills
 - **Main Programming Languages:** Python, JavaScript
-- **Frameworks and Libraries:** PyTorch, Scikit-Learn, Pandas, LangChain
+- **Frameworks and Libraries:** PyTorch, Scikit-Learn, Pandas, Matplotlib, LangChain, Streamlit, BeautifulSoup
 - **Areas of Expertise:** Deep Learning, Computer Vision, Text Classification, Medical Image Processing
 - **Tools:** Git, Linux
 - **Soft Skills**: Eager to learn, adaptive leadership and resilience through obstacles
