@@ -17,7 +17,7 @@ I am a data scientist and AI engineer with a Bachelor's degree in Computer Scien
 
 
 ## 🛠️ Skills
-- **Main Programming Languages:** Python, JavaScript
+- **Main Programming Languages:** Python, JavaScript, SQL
 - **Frameworks and Libraries:** PyTorch, Scikit-Learn, Pandas, Matplotlib, LangChain, Streamlit, BeautifulSoup
 - **Areas of Expertise:** Deep Learning, Computer Vision, Text Classification, Medical Image Processing
 - **Tools:** Git, Linux
